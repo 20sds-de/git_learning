@@ -1,0 +1,1 @@
+Hover over a file and click the + icon.
